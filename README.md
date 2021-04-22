@@ -31,5 +31,5 @@ ______________________________________________
 #Run the following command to check the result
 ______________________________________________
 
-npm test
+```npm test```
 
