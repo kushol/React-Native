@@ -2,7 +2,7 @@
 _________________________________________
 #To do unit testing,
 At first install the following packages:
-_________________________________________
+________________________________________
 
 ```npm install --save-dev jest```
 
@@ -33,3 +33,4 @@ ______________________________________________
 
 ```npm test```
 
+Details can be found here ```https://jestjs.io/docs/tutorial-react-native```
