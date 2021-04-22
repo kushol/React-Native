@@ -1,7 +1,7 @@
 # React-Native
 _________________________________________
-#To do Unit Testing,
-At first install the following package:
+#To do unit testing,
+At first install the following packages:
 _________________________________________
 
 ```npm install --save-dev jest```
