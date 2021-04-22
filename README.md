@@ -4,9 +4,9 @@ _________________________________________
 At first install the following package:
 _________________________________________
 
-npm install --save-dev jest
+```npm install --save-dev jest```
 
-npm install react-test-renderer@16.8.4
+```npm install react-test-renderer@16.8.4```
 
 _______________________________________________________________________
 #Change package.json file in your application by adding the following
