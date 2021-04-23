@@ -1,7 +1,7 @@
 # React-Native
 _________________________________________
 #To do unit testing,
-At first install the following packages:
+at first install the following packages:
 ________________________________________
 
 ```npm install --save-dev jest```
@@ -20,7 +20,7 @@ _______________________________________________________________________
   },
  ``` 
 ____________________________________________________________________
-#Write test cases in a file (i.e., Starter.test.js) under App folder
+#Write test cases in a file (i.e., Starter.test.js) under "App" folder
 ____________________________________________________________________
 ```
 test("test rendering", ()=>{
