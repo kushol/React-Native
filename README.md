@@ -1,6 +1,6 @@
 # Reat-native
 _________________________________________
-To install mobSF follow the link below:
+To install MobSF follow the link below:
 
 1. for system requirements: https://mobsf.github.io/docs/#/requirements
 2. for installation steps: https://mobsf.github.io/docs/#/installation
