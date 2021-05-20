@@ -1,4 +1,11 @@
 # Reat-native
+_________________________________________
+To install mobSF follow the link below:
+
+1. for system requirements: https://mobsf.github.io/docs/#/requirements
+2. for installation steps: https://mobsf.github.io/docs/#/installation
+3. for sample apks: https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html
+
 
 # UX Survey links:
 _________________________________________
