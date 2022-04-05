@@ -62,4 +62,7 @@ Details can be found here ```https://jestjs.io/docs/tutorial-react-native```
 -----------------------------------------------------------------------------------
 ## Week 7
 -----------------------------------------------------------------------------------
-Passing value from one screen to another screen: https://snack.expo.dev/@aboutreact/react-native-pass-value-from-one-screen-to-another-using-react-navigation?session_id=snack-session-H1OY2gb6m
+1. Passing value from one screen to another screen: 
+	https://snack.expo.dev/@aboutreact/react-native-pass-value-from-one-screen-to-another-using-react-navigation?session_id=snack-session-H1OY2gb6m
+2. Custom picker component example:
+	https://www.npmjs.com/package/react-native-custom-picker
