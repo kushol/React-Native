@@ -58,3 +58,8 @@ ______________________________________________
 ```npm test```
 
 Details can be found here ```https://jestjs.io/docs/tutorial-react-native```
+
+-----------------------------------------------------------------------------------
+## Week 7
+-----------------------------------------------------------------------------------
+Passing value from one screen to another screen: https://snack.expo.dev/@aboutreact/react-native-pass-value-from-one-screen-to-another-using-react-navigation?session_id=snack-session-H1OY2gb6m
