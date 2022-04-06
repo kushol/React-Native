@@ -66,3 +66,4 @@ Details can be found here ```https://jestjs.io/docs/tutorial-react-native```
 	https://snack.expo.dev/@aboutreact/react-native-pass-value-from-one-screen-to-another-using-react-navigation?session_id=snack-session-H1OY2gb6m
 2. Custom picker component example:
 	https://www.npmjs.com/package/react-native-custom-picker
+3. Sample project can be found here: https://www.back4app.com/docs/react-native/parse-sdk/data-objects/react-native-crud-tutorial
