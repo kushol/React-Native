@@ -19,6 +19,19 @@ _________________________________________
 3. LinkedIn Learning Link:
    https://www.linkedin.com/learning/ux-foundations-research/agile-vs-waterfall?u=2126025
 4. Use Qualtrics to make your survey: mqedu.qualtrics.com 
+5. Card Sorting:
+   https://www.usability.gov/how-to-and-tools/methods/card-sorting.html
+6. Eye Tracking:
+   https://www.hotjar.com/conversion-rate-optimization/glossary/eye-tracking/
+7. A/B testing:
+   https://www.optimizely.com/optimization-glossary/ab-testing/
+8. Expert Reviews:
+   https://www.usability.de/en/usability-user-experience/glossary/expert-review.html
+   https://www.experienceux.co.uk/faqs/what-is-an-expert-review/
+9. Diary Studies:
+   https://www.nngroup.com/articles/diary-studies/
+10. Interviewing: 
+   https://uxstudioteam.com/ux-blog/user-interviews/
 _________________________________________
 ## Week 8:
 _________________________________________
