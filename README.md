@@ -18,7 +18,7 @@ _________________________________________
    https://www.interaction-design.org/literature/article/useful-survey-questions-for-user-feedback-surveys
 3. LinkedIn Learning Link:
    https://www.linkedin.com/learning/ux-foundations-research/agile-vs-waterfall?u=2126025
-4. Use Qualtrics to make your survey: mqedu.qualtrics.com 
+4. Use Qualtrics to make your survey: mqedu.qualtrics.com  
 5. Card Sorting:
    https://www.usability.gov/how-to-and-tools/methods/card-sorting.html
 6. Eye Tracking:
